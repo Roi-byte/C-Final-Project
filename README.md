@@ -1,10 +1,10 @@
-
+## Final project
 Coded by Roi-byte, this project is my C Final Project for the course.
 It is a fully functional Assembler, implemented entirely in ANSI C (C90) and developed on Ubuntu Linux.
 
 The project demonstrates advanced C concepts, including structs, dynamic memory allocation, file I/O, and modular program design, while simulating assembler memory and instruction handling.
 
-Features:
+## Features:
 
 
 Pointers, arrays, and strings
@@ -23,7 +23,7 @@ Assembler Project (C Final Project):
 
 Implements a custom assembler in C90
 
-Works in three main steps:
+## Works in three main steps:
 
 Initialization: processes macros in the input file
 
@@ -36,7 +36,7 @@ Uses structs and dynamic memory allocation to simulate assembler memory
 Demonstrates parsing, symbol resolution, and binary output generation
 
 
-Development Environment:
+## Development Environment:
 
 Operating System: Ubuntu Linux
 
@@ -47,7 +47,7 @@ Build System: Make
 Editor/IDE: Terminal-based tools, Vim, or VS Code
 
 
-Notes:
+## Notes:
 
 All programs are written in pure C (C90) - no external libraries used.
 
@@ -55,6 +55,6 @@ The assembler project simulates memory and instruction handling using structs an
 
 Each project is self contained, well commented, and easy to compile and run.
 
-Author:
+## Author:
 
 Roi-byte - https://github.com/Roi-byte
